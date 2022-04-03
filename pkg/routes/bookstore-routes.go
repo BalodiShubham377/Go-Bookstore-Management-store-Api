@@ -3,7 +3,7 @@ package routes
 import(
 
 	"github.com/gorilla/mux"
-	"github.com/BalodiShubham377/Go-Bookstore-Management-store-Api/pkg/controllers"
+	"github.com/BalodiShubham377/Go-Bookstore-Management-store-Api/pkg/controller"
 )
 
  
