@@ -43,3 +43,4 @@ func DeleteBook(ID int64) Book{
 	db.Where("ID=?", ID).Delete(book)
 	return book
 }
+
